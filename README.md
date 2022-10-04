@@ -12,3 +12,5 @@ Have you seen this cool badges that count your views and appears in your readme 
 4. Enter the URL of the tracker, it should be an image URL (GitHub is fine if you want, for me it’s `https://komarev.com/ghpvc/?username=yan-jobs`)
 5. Enjoy your recover ;)
 
+## Errors
+Be careful while entering values, any errors will cause a big bad thing in your terminal. Fixed soon™️ 
